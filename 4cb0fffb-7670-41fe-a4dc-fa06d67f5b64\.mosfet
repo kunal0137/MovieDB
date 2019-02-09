@@ -1,0 +1,8 @@
+{
+  "layout": "panel",
+  "rdbmsId": "4cb0fffb-7670-41fe-a4dc-fa06d67f5b64",
+  "hidden": false,
+  "insightName": "Movie Dashboard",
+  "recipe": "DashboardInsightConfig(insights\u003d[\"a78c3317-38ec-4089-af00-66cea7765718__25c73cf2-c088-4636-904c-e4620f9c625c\"], oldIds\u003d[\"3_50b2d389-b5cb-4d7f-bf7e-f78edaf0fd70\"], layout\u003d[\"\u003cencode\u003e{\"currentLayout\":{\"config\":{\"options\":{\"type\":\"custom\",\"templateOptions\":[{\"top\":0,\"left\":0,\"width\":50,\"height\":50},{\"top\":50,\"left\":0,\"width\":50,\"height\":50},{\"top\":0,\"left\":50,\"width\":50,\"height\":100}],\"panelOrder\":[\"SMSSWidget3_50b2d389-b5cb-4d7f-bf7e-f78edaf0fd70___1\",\"SMSSWidget3_50b2d389-b5cb-4d7f-bf7e-f78edaf0fd70___2\",\"SMSSWidget3_50b2d389-b5cb-4d7f-bf7e-f78edaf0fd70___0\"]},\"panels\":{\"SMSSWidget3_50b2d389-b5cb-4d7f-bf7e-f78edaf0fd70___0\":{\"top\":0,\"left\":49.953746530989825,\"height\":100,\"width\":49.969164353993214,\"index\":2,\"type\":\"STANDARD\"},\"SMSSWidget3_50b2d389-b5cb-4d7f-bf7e-f78edaf0fd70___1\":{\"top\":0,\"left\":0,\"height\":50,\"width\":50,\"index\":0,\"type\":\"STANDARD\"},\"SMSSWidget3_50b2d389-b5cb-4d7f-bf7e-f78edaf0fd70___2\":{\"top\":50,\"left\":0,\"height\":50,\"width\":50,\"index\":1,\"type\":\"STANDARD\"}}},\"selectedWidget\":\"SMSSWidget3_50b2d389-b5cb-4d7f-bf7e-f78edaf0fd70___0\",\"availableWidgets\":[{\"widgetId\":\"SMSSWidget3_50b2d389-b5cb-4d7f-bf7e-f78edaf0fd70___0\",\"deleted\":false},{\"widgetId\":\"SMSSWidget3_50b2d389-b5cb-4d7f-bf7e-f78edaf0fd70___1\",\"deleted\":false},{\"widgetId\":\"SMSSWidget3_50b2d389-b5cb-4d7f-bf7e-f78edaf0fd70___2\",\"deleted\":false}]},\"selectedLayout\":\"panel\"}\u003c/encode\u003e\"] );",
+  "engineId": "a78c3317-38ec-4089-af00-66cea7765718"
+}
